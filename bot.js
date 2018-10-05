@@ -7,7 +7,7 @@
 
 This is a sample Slack bot built with Botkit.
 
-# EXTEND THE BOT:
+# EXTEND THE BOT: ---
 
   Botkit has many features for building cool and useful bots!
 

@@ -73,4 +73,6 @@ module.exports = function(controller) {
 }
 ```
 
+Updated 05-10-2018
+
 [beepboop]: https://beepboophq.com
